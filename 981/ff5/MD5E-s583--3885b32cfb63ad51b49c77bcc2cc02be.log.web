@@ -24,6 +24,9 @@
 1654631493.577267043s 1 https://api.dandiarchive.org/api/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe.zarr/0/0/0/14/9/190
 1654631682.951487284s 1 https://api.dandiarchive.org/api/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe.zarr/0/0/0/15/10/191
 1654631729.085166037s 1 https://api.dandiarchive.org/api/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe.zarr/0/0/0/15/11/191
+1654634616.102866631s 1 https://api.dandiarchive.org/api/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe.zarr/0/0/0/15/5/191
+1654634885.425085955s 1 https://api.dandiarchive.org/api/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe.zarr/0/0/0/15/8/191
+1654634979.596510021s 1 https://api.dandiarchive.org/api/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe.zarr/0/0/0/15/9/191
 1654030406.165313s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/11/5/187?versionId=N0TdWzSY.mG7GXKJVSO70GS2ISupxQaY
 1654030540.650626s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/11/6/187?versionId=_Z.ZXCHRffnIJbQwn1_5v46eRldot6vo
 1654030659.708445s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/11/7/187?versionId=AaFQ5Su206Pn3Is4yDvNfJGp7KkhlVbK
@@ -50,3 +53,6 @@
 1654631493.537629194s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/14/9/190?versionId=pvzdDr5ypb55cBSE7xdIKD2YzlLH5IyR
 1654631682.857730829s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/15/10/191?versionId=bTbk.uIuO40r5JfqHbDkQAwGOziXzXKd
 1654631728.979131186s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/15/11/191?versionId=UW4WzZu2e5G4XuCCxQsnIR7vnFYaDbyr
+1654634616.074704813s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/15/5/191?versionId=TA6fwXgXibzh2JG4M7Y_Ady82VMnvjMx
+1654634885.408616187s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/15/8/191?versionId=JlTocF3Gv_nGAX7FFcUEi3GJryeTBMrg
+1654634979.560919615s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef23e539-513e-49ad-8a0b-584bbaba8dfe/0/0/0/15/9/191?versionId=AIQCtiCvmKYGFIYg_Je.2YnHQIWUCDgE
